@@ -24,9 +24,8 @@ Hist contains the histograms of the results of the algos for different initializ
 Giphs contain visualization giph results for several functions
 
 Example for Periodic function Adam and Nesterov Momentum Method:
-![Alt Text](https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Periodic/Adam.gif)
 
-<img src="https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Periodic/Adam.gif" width="200" height="200">
+<img src="https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Periodic/Adam.gif" width="400" height="400">
 
 
 ![Alt Text](https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Periodic/NesterovMomentum.gif)
