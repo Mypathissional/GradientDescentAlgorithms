@@ -17,4 +17,10 @@ The code also alows to make visualization of the algos for famous functions such
 6) Rastrigin
 An example of code use can be seen in run.m.
 
-The folders with the name of multidim functions contain the visualization results of the algos for 2dim case. Hist contains the histograms of the results of the algos for different initialization points and params. Giphs contain visualization giph results for several functions
+The folders with the name of multidim functions contain the visualization results of the algos for 2dim case. 
+Hist contains the histograms of the results of the algos for different initialization points and params.
+Giphs contain visualization giph results for several functions
+Example:
+![Alt Text](https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Ackley/Adam.gif)
+
+
