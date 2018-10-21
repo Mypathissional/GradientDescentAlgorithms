@@ -1,0 +1,11 @@
+%t = [Ackley, Easom, Matyas, Periodic, Quadratic,Rastrigin, Saloomon,Three_hump_camel_function]
+
+f = Ackley();
+f.dim =2;
+x = [2.5717   -1.1462];
+l =0.01 ; eps = 0.000000000001; n = 20; animate=true; p =false;
+o = Optimization_algo(f,l,eps,n,p,animate);
+%o.Adam([-2,1],0.9,0.999)
+%o.Adam(-4,0.9,0.999)
+%x1=o.Adam(x,0.9,0.99)
+o.Gradient_descent(x)
