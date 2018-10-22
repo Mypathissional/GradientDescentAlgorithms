@@ -16,6 +16,7 @@ The code also alows to make visualization of the algos for famous functions such
   4) Easom
   5) quadratic
   6) Rastrigin
+  
 An example of code use can be seen in run.m.
 
 The folders with the name of multidim functions contain the visualization results of the algos for 2dim case. 
