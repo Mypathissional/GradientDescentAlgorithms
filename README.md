@@ -7,6 +7,7 @@ This repo contains an implementation of famous Gradient Descent Algorithms in Ma
   4) AdaGrad
   5) RMSprop
   6) Adam
+
 The code also alows to make visualization of the algos for famous functions such as:
 
   1) 3humpcamel
