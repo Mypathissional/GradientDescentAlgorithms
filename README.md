@@ -25,7 +25,7 @@ Giphs contain visualization giph results for several functions
 
 Example for Periodic function Adam and Nesterov Momentum Method:
 
-<img src="https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Periodic/Adam.gif" width="600" height="600">
+<img src="https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Periodic/Adam.gif" width="600" height="300">
 
-<img src="https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Periodic/NesterovMomentum.gif" width="600" height="600">
+<img src="https://github.com/Mypathissional/Gradient-Descent-Algos/blob/master/giphs/Periodic/NesterovMomentum.gif" width="600" height="300">
 
